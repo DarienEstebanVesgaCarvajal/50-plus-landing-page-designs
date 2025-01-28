@@ -5,3 +5,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.main{
+
+    background-color: aqua;
+    padding: 15px;
+
+}
+
+.rowOne{
+
+    background-color: antiquewhite;
+    padding: 15px;
+
+}
+
+.rowTwo{
+
+    background-color: rgb(159, 223, 157);
+    padding: 15px;
+
+}
+
+.rowThree{
+
+    background-color: violet;
+    padding: 15px;
+    
+}
